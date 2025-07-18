@@ -1,7 +1,5 @@
 # ICO Project
 
-## Project Setup
-
 ### SpaceCoin Token
 - Maximum total supply of SpaceCoin token is `50_000`.
 - The decimals of SpaceCoin token is `18`.
